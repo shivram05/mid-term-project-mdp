@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Sports News Information</string>
+    <string name="title_activity_signup">SignupActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+    </string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="submit">SUBMIT</string>
+    <string name="please_wait">Please Wait..</string>
+    <string name="please_enter_valid_email_address">Please Enter Valid Email Address</string>
+    <string name="user_register_successfully">User Register Successfully</string>
+    <string name="user_login_successfully">User Login Successfully</string>
+    <string name="ok">ok</string>
+    <string name="signup">SignUp</string>
+    <string name="already_a_member_sign_in">Already a Member</string>
+    <string name="new_member_sign_up">New Member</string>
+    <string name="sign_in">Sign In</string>
+    <string name="invalid_email_or_password">Invalid Email or Password</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="news">News</string>
+    <string name="events">Events</string>
+    <string name="historical_archives">Historical Archives</string>
+    <string name="sports">Sports</string>
+    <string name="athletes">Athletes</string>
+    <string name="about">About</string>
+    <string name="addicon">addIcon</string>
+    <string name="add_new_sports">Add new Sports</string>
+    <string name="sports_name">Sports Name</string>
+    <string name="instruction">Instruction</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+    <string name="sports_type">Sports Type</string>
+    <string name="measure">Measure</string>
+    <string name="precision">Precision</string>
+    <string name="spectacle">Spectacle</string>
+    <string name="combat">Combat</string>
+    <string name="play">Play</string>
+    <string name="sports_added_successfully">Sports Added Successfully</string>
+    <string name="news_added_successfully">News Added Successfully</string>
+    <string name="events_added_successfully">Events Added Successfully</string>
+    <string name="athletes_added_successfully">Athletes Added Successfully</string>
+    <string name="historical_added_successfully">Historical Archives Added Successfully</string>
+    <string name="miu_logo">miu_logo</string>
+    <string name="add_news_news">Add new News</string>
+    <string name="news_image_url">News Image URL</string>
+    <string name="news_title">News Title</string>
+    <string name="news_description">News Description</string>
+    <string name="add_new_athlete">Add new Athlete</string>
+    <string name="athlete_s_name">Athlete\'s Name</string>
+    <string name="main_competing_sport">Main Competing Sport</string>
+    <string name="country_of_origin">Country of Origin</string>
+    <string name="personal_best">Personal Best</string>
+    <string name="interesting_facts">Interesting Facts</string>
+    <string name="number_of_medals_awarded">Number of Medals Awarded</string>
+    <string name="name">Name: %1$s</string>
+    <string name="sport">Sport: %1$s</string>
+    <string name="country">Country: %1$s</string>
+    <string name="medals">Medals: %1$s</string>
+    <string name="facts">Facts: %1$s</string>
+    <string name="personal_bests">Personal Best: %1$s</string>
+    <string name="add_new_events">Add new Events</string>
+    <string name="event_name">Event Name</string>
+    <string name="select_date">Select Date</string>
+    <string name="event_description">Event Description</string>
+    <string name="add_new_historical_archives">Add new Historical Archives</string>
+    <string name="historical_sports_event_name">Historical Sports Event Name</string>
+    <string name="historical_description">Historical Description</string>
+    <string name="shivram_shrestha">Shivram Shrestha</string>
+    <string name="about_me">Hi, I am Shivram Shrestha and i am a Full-Stack Developer in a Web and also Mobile Application Developer..</string>
+    <string name="logout">LOGOUT</string>
+    <string name="are_you_sure_want_to_logout">Are you sure want to logout</string>
+
+</resources>
